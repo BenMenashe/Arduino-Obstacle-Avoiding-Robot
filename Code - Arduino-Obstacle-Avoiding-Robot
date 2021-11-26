@@ -1,5 +1,5 @@
 //This program was made by Ben Menashe
-//Arduino Arduino-Obstacle-Avoiding-Robot
+//Arduino-Obstacle-Avoiding-Robot
 #include <Servo.h>
 #include <NewPing.h>
 //Motors pins
